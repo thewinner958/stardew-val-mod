@@ -23,36 +23,36 @@ Characters
 ---
 On the left the original character, on the right the changed character. 
 Be careful of spoilers! POTENTIAL SPOILERS AHEAD!
-If marked by "****" no certain NPC has been selected to be changed into. 
-A "*" before original character means that they are potential marriage characters(in the basegame). May be changed at a later date. 
+If marked by "\*\*\*\*" no certain NPC has been selected to be changed into. 
+A "\*" before original character means that they are potential marriage characters(in the basegame). May be changed at a later date. 
 Scratch that, they will be changed later, cause the family relations otherwise will make no sense.
 Description below:
 
 Farmer --> Yoru
 
-*Leah --> Skye 
+\*Leah --> Skye 
 
-*Alex -->
+\*Alex -->
 
-*Elliott -->
+\*Elliott -->
 
-*Harvey --> Sage
+\*Harvey --> Sage
 
-*Sam --> Phoenix
+\*Sam --> Phoenix
 
-*Sebastian --> Kay/O
+\*Sebastian --> Kay/O
 
-*Shane -->
+\*Shane -->
 
-*Abigail --> Neon
+\*Abigail --> Neon
 
-*Emily --> Jett
+\*Emily --> Jett
 
-*Haley --> Raze
+\*Haley --> Raze
 
-*Maru --> KJ
+\*Maru --> KJ
 
-*Penny -->
+\*Penny -->
 
 --------------------------------------
 Caroline --> 
