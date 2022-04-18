@@ -148,7 +148,10 @@ Overall changes:
 
 Changelog
 ---
-
+Version 0.1.1b:
+- Moved to Github project
+- Changed the folder structure/Copied original game structure
+- Moved letters from content into own file
 Version 0.1.1a:
 - Added dog texture
 
