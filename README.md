@@ -17,8 +17,10 @@ One last thing: I am terrible at art, pixelart as well. So a huge thanks goes to
 - ...
 
 and more who helped this journey. Enjoy!
-###########################################################################################################
+
+
 Characters
+---
 On the left the original character, on the right the changed character. 
 Be careful of spoilers! POTENTIAL SPOILERS AHEAD!
 If marked by "****" no certain NPC has been selected to be changed into. 
@@ -120,11 +122,14 @@ Mr Qi --> Cypher
 
 Professor Snail --> 
 
--------------------------------------
-Character descriptions:
 
-###########################################################################################################
+Character descriptions:
+---
+
+
+
 Overall changes:
+---
 
 - Radio station produced by Raze
 - Change of houses for characters to make a bit more sense
@@ -140,8 +145,9 @@ Overall changes:
 - Custom events e.g. stories, dialogues that MC is not included in
 - Add Insta comics as mini events
 
-###########################################################################################################
+
 Changelog
+---
 
 Version 0.1.1a:
 - Added dog texture
