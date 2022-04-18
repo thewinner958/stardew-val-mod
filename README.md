@@ -8,13 +8,13 @@ This will be used as somewhat of a list of what changes have been done. I will n
 to install mods. If you find any trouble with the mod and its content: Write me on Discord
 @Splitted_Spark#0136
 
-This is my first mod and thus there will be more and more changes added but for now no major map reworks are in planning
+This is our first mod and thus there will be more and more changes added but for now no major map reworks are in planning
 First will be a list of the overall planned changes to the game and after that will be the version updates:
-One last thing: I am terrible at art, pixelart as well. So a huge thanks goes to the contributors:
+A huge thanks goes to the contributors:
 - Flare: art, code
 - TheWinner: code
 - Spliinkles: ideas and decision-making help
-- ...
+- Discord members who helped with decisions and code help
 
 and more who helped this journey. Enjoy!
 
