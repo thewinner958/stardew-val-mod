@@ -5,16 +5,16 @@ A Valorant x Stardew Valley mod
 And yes, this was done out of a Yokye post, so expect the best story there
 
 This will be used as somewhat of a list of what changes have been done. I will not be explaining how
-to install mods. If you find any trouble with the mod and its content: Write me on Discord
+to install mods. If you find any trouble with the mod and/or its content: Write me on Discord
 @Splitted_Spark#0136
 
 This is our first mod and thus there will be more and more changes added but for now no major map reworks are in planning
 First will be a list of the overall planned changes to the game and after that will be the version updates:
-A huge thanks goes to the contributors:
+A huge thanks goes to the team and contributors:
 - Flare: art, code
 - TheWinner: code
-- Spliinkles: ideas and decision-making help
-- Discord members who helped with decisions and code help
+- Spliinkles: ideas and decision-making
+- Discord members who helped with decisions and code
 
 and more who helped this journey. Enjoy!
 
@@ -26,6 +26,7 @@ Be careful of spoilers! POTENTIAL SPOILERS AHEAD!
 If marked by "\*\*\*\*" no certain NPC has been selected to be changed into. 
 A "\*" before original character means that they are potential marriage characters(in the basegame). May be changed at a later date. 
 Scratch that, they will be changed later, cause the family relations otherwise will make no sense.
+
 Description below:
 
 Farmer --> Yoru
@@ -148,6 +149,9 @@ Overall changes:
 
 Changelog
 ---
+Version 0.1.2a:
+- Updated README
+
 Version 0.1.2:
 - Remodelled schedules for Breach and Brimstone
 - Reworked some character dispositions
