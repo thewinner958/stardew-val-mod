@@ -8,7 +8,7 @@ This will be used as somewhat of a list of what changes have been done. I will n
 to install mods. If you find any trouble with the mod and/or its content: Write me on Discord
 @Splitted_Spark#0136
 
-This is our first mod and thus there will be more and more changes added but for now no major map reworks are in planning
+This is our first mod and thus there will be more and more changes added but for now no major map reworks are in planning. This mod is in English! No language adaptations are planned.
 First will be a list of the overall planned changes to the game and after that will be the version updates:
 A huge thanks goes to the team and contributors:
 - Flare: art, code
