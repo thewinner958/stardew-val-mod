@@ -49,7 +49,7 @@ Farmer --> Yoru
 
 \*Emily --> Jett
 
-\*Haley --> Raze
+\*Haley --> 
 
 \*Maru --> KJ
 
@@ -70,7 +70,7 @@ George -->
 
 Gus --> 
 
-Jas --> Reyna's 
+Jas --> Reyna's little sister?
 
 Jodi --> 
 
@@ -90,7 +90,7 @@ Pam -->
 
 Pierre --> Chamber
 
-Robin --> 
+Robin --> Raze
 
 Sandy --> Astra
 
