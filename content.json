@@ -12,174 +12,417 @@
 			"Target": "Characters/Farmer/shirts",
 			"FromFile": "assets/shirts_yoru75.png"
 		},
+//Portraits
 		//Skye
 		{
 			"Action": "Load",
 			"Target": "Portraits/Leah",
-			"FromFile": "assets/skye.png"
+			"FromFile": "assets/portraits/skye.png"
 		},
 		//Skye Beach
 		{
 			"Action": "Load",
 			"Target": "Portraits/Leah_Beach",
-			"FromFile": "assets/skye_beach.png"
+			"FromFile": "assets/portraits/skye_beach.png"
 		},
 		//Neon
 		{
 			"Action": "Load",
 			"Target": "Portraits/Abigail",
-			"FromFile": "assets/neon.png"
+			"FromFile": "assets/portraits/neon.png"
 		},
 		//Neon Beach
 		{
 			"Action": "Load",
 			"Target": "Portraits/Abigail_Beach",
-			"FromFile": "assets/neon_beach.png"
+			"FromFile": "assets/portraits/neon_beach.png"
 		},
 		//Sage
 		{
 			"Action": "Load",
 			"Target": "Portraits/Harvey",
-			"FromFile": "assets/sage.png"
+			"FromFile": "assets/portraits/sage.png"
 		},
 		//Sage Beach
 		{
 			"Action": "Load",
 			"Target": "Portraits/Harvey_Beach",
-			"FromFile": "assets/sage_beach.png"
+			"FromFile": "assets/portraits/sage_beach.png"
 		},
 		//Phoenix
 		{
 			"Action": "Load",
 			"Target": "Portraits/Sam",
-			"FromFile": "assets/phoenix.png"
+			"FromFile": "assets/portraits/phoenix.png"
 		},
 		//Phoenix Beach
 		{
 			"Action": "Load",
 			"Target": "Portraits/Sam_Beach",
-			"FromFile": "assets/phoenix_beach.png"
+			"FromFile": "assets/portraits/phoenix_beach.png"
 		},
 		//Kayo 
 		{
 			"Action": "Load",
 			"Target": "Portraits/Sebastian",
-			"FromFile": "assets/kayo.png"
+			"FromFile": "assets/portraits/kayo.png"
 		},
 		//Kayo Beach
 		{
 			"Action": "Load",
 			"Target": "Portraits/Sebastian",
-			"FromFile": "assets/kayo_beach.png"
+			"FromFile": "assets/portraits/kayo_beach.png"
 		},
 		//Jett
 		{
 			"Action": "Load",
 			"Target": "Portraits/Emily",
-			"FromFile": "assets/jett.png"
+			"FromFile": "assets/portraits/jett.png"
 		},
 		//Jett Beach
 		{
 			"Action": "Load",
 			"Target": "Portraits/Emily_Beach",
-			"FromFile": "assets/jett_beach.png"
+			"FromFile": "assets/portraits/jett_beach.png"
 		},
 		//Raze
 		{
 			"Action": "Load",
-			"Target": "Portraits/Haley",
-			"FromFile": "assets/raze.png"
+			"Target": "Portraits/Robin",
+			"FromFile": "assets/portraits/raze.png"
 		},
 		//Raze Beach
 		{
 			"Action": "Load",
-			"Target": "Portraits/Haley_Beach",
-			"FromFile": "assets/raze_beach.png"
+			"Target": "Portraits/Robin_Beach",
+			"FromFile": "assassets/portraits/raze_beach.png"
 		},
 		//KJ
 		{
 			"Action": "Load",
 			"Target": "Portraits/Maru",
-			"FromFile": "assets/kj.png"
+			"FromFile": "assets/portraits/kj.png"
 		},
 		//KJ Beach
 		{
 			"Action": "Load",
 			"Target": "Portraits/Maru_Beach",
-			"FromFile": "assets/kj_beach.png"
+			"FromFile": "assets/portraits/kj_beach.png"
 		},
 		//Breach
 		{
 			"Action": "Load",
 			"Target": "Portraits/Clint",
-			"FromFile": "assets/breach.png"
+			"FromFile": "assets/portraits/breach.png"
 		},
 		//Breach Beach
 		{
 			"Action": "Load",
 			"Target": "Portraits/Clint_Beach",
-			"FromFile": "assets/breach_beach.png"
+			"FromFile": "assets/portraits/breach_beach.png"
 		},
 		//Viper
 		{
 			"Action": "Load",
 			"Target": "Portraits/Demetrius",
-			"FromFile": "assets/viper.png"
+			"FromFile": "assets/portraits/viper.png"
 		},
 		//Viper Beach
 		{
 			"Action": "Load",
 			"Target": "Portraits/Demetrius_Beach",
-			"FromFile": "assets/viper_beach.png"
+			"FromFile": "assets/portraits/viper_beach.png"
 		},
 		//Omen
 		{
 			"Action": "Load",
 			"Target": "Portraits/Krobus",
-			"FromFile": "assets/omen.png"
+			"FromFile": "assets/portraits/omen.png"
 		},
 		//Omen Beach
 		{
 			"Action": "Load",
 			"Target": "Portraits/Krobus_Beach",
-			"FromFile": "assets/omen_beach.png"
+			"FromFile": "assets/portraits/omen_beach.png"
 		},
 		//Brimstone
 		{
 			"Action": "Load",
 			"Target": "Portraits/Lewis",
-			"FromFile": "assets/brimstone.png"
+			"FromFile": "assets/portraits/brimstone.png"
 		},
 		//Brimstone Beach
 		{
 			"Action": "Load",
 			"Target": "Portraits/Lewis_Beach",
-			"FromFile": "assets/brimstone_beach.png"
+			"FromFile": "assets/portraits/brimstone_beach.png"
 		},
 		//Sova
 		{
 			"Action": "Load",
 			"Target": "Portraits/Linus",
-			"FromFile": "assets/sova.png"
+			"FromFile": "assets/portraits/sova.png"
 		},
 		//Sova Beach
 		{
 			"Action": "Load",
 			"Target": "Portraits/Linus_Beach",
-			"FromFile": "assets/sova_beach.png"
+			"FromFile": "assets/portraits/sova_beach.png"
 		},
 		//Astra
 		{
 			"Action": "Load",
 			"Target": "Portraits/Sandy",
-			"FromFile": "assets/astra.png"
+			"FromFile": "assets/portraits/astra.png"
 		},
 		//Astra Beach
 		{
 			"Action": "Load",
-			"Target": "Portraits/Astra_Beach",
-			"FromFile": "assets/astra_beach.png"
+			"Target": "Portraits/Sandy_Beach",
+			"FromFile": "assets/portraits/astra_beach.png"
 		},
+	    	//Astra2
+		{
+			"Action": "Load",
+			"Target": "Portraits/Wizard",
+			"FromFile": "assets/portraits/astra.png"
+		},
+		//Astra2 Beach
+		{
+			"Action": "Load",
+			"Target": "Portraits/Wizard_Beach",
+			"FromFile": "assets/portraits/astra_beach.png"
+		},
+	    	//Chamber
+	    	{
+			"Action": "Load",
+			"Target": "Portraits/Pierre",
+			"FromFile": "assets/portraits/chamber.png"
+		},
+		//Chamber Beach
+		{
+			"Action": "Load",
+			"Target": "Portraits/Pierre_Beach",
+			"FromFile": "assets/portraits/chamber_beach.png"
+		},
+	    	//Alter Sova
+		{
+			"Action": "Load",
+			"Target": "Portraits/Willy",
+			"FromFile": "assets/portraits/alter_sova.png"
+		},
+		//Alter Sova Beach
+		/*{
+			"Action": "Load",
+			"Target": "Portraits/Willy_Beach",
+			"FromFile": "assets/portraits/alter_sova_beach.png"
+		},*/
+//Spritesheets
+	    	//Skye
+		{
+			"Action": "Load",
+			"Target": "Characters/Leah",
+			"FromFile": "assets/characters/skye.png"
+		},
+		//Skye Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Leah_Beach",
+			"FromFile": "assets/characters/skye_beach.png"
+		},
+		//Neon
+		{
+			"Action": "Load",
+			"Target": "Characters/Abigail",
+			"FromFile": "assets/characters/neon.png"
+		},
+		//Neon Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Abigail_Beach",
+			"FromFile": "assets/characters/neon_beach.png"
+		},
+		//Sage
+		{
+			"Action": "Load",
+			"Target": "Characters/Harvey",
+			"FromFile": "assets/characters/sage.png"
+		},
+		//Sage Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Harvey_Beach",
+			"FromFile": "assets/characters/sage_beach.png"
+		},
+		//Phoenix
+		{
+			"Action": "Load",
+			"Target": "Characters/Sam",
+			"FromFile": "assets/characters/phoenix.png"
+		},
+		//Phoenix Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Sam_Beach",
+			"FromFile": "assets/characters/phoenix_beach.png"
+		},
+		//Kayo 
+		{
+			"Action": "Load",
+			"Target": "Characters/Sebastian",
+			"FromFile": "assets/characters/kayo.png"
+		},
+		//Kayo Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Sebastian",
+			"FromFile": "assets/characters/kayo_beach.png"
+		},
+		//Jett
+		{
+			"Action": "Load",
+			"Target": "Characters/Emily",
+			"FromFile": "assets/characters/jett.png"
+		},
+		//Jett Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Emily_Beach",
+			"FromFile": "assets/characters/jett_beach.png"
+		},
+		//Raze
+		{
+			"Action": "Load",
+			"Target": "Characters/Robin",
+			"FromFile": "assets/characters/raze.png"
+		},
+		//Raze Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Robin_Beach",
+			"FromFile": "assets/characters/raze_beach.png"
+		},
+		//KJ
+		{
+			"Action": "Load",
+			"Target": "Characters/Maru",
+			"FromFile": "assets/characters/kj.png"
+		},
+		//KJ Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Maru_Beach",
+			"FromFile": "assets/characters/kj_beach.png"
+		},
+		//Breach
+		{
+			"Action": "Load",
+			"Target": "Characters/Clint",
+			"FromFile": "assets/characters/breach.png"
+		},
+		//Breach Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Clint_Beach",
+			"FromFile": "assets/characters/breach_beach.png"
+		},
+		//Viper
+		{
+			"Action": "Load",
+			"Target": "Characters/Demetrius",
+			"FromFile": "assets/characters/viper.png"
+		},
+		//Viper Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Demetrius_Beach",
+			"FromFile": "assets/characters/viper_beach.png"
+		},
+		//Omen
+		{
+			"Action": "Load",
+			"Target": "Characters/Krobus",
+			"FromFile": "assets/characters/omen.png"
+		},
+		//Omen Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Krobus_Beach",
+			"FromFile": "assets/characters/omen_beach.png"
+		},
+		//Brimstone
+		{
+			"Action": "Load",
+			"Target": "Characters/Lewis",
+			"FromFile": "assets/characters/brimstone.png"
+		},
+		//Brimstone Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Lewis_Beach",
+			"FromFile": "assets/characters/brimstone_beach.png"
+		},
+		//Sova
+		{
+			"Action": "Load",
+			"Target": "Characters/Linus",
+			"FromFile": "assets/characters/sova.png"
+		},
+		//Sova Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Linus_Beach",
+			"FromFile": "assets/characters/sova_beach.png"
+		},
+		//Astra
+		{
+			"Action": "Load",
+			"Target": "Characters/Sandy",
+			"FromFile": "assets/characters/astra.png"
+		},
+		//Astra Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Sandy_Beach",
+			"FromFile": "assets/characters/astra_beach.png"
+		},
+	    	//Astra2
+		{
+			"Action": "Load",
+			"Target": "Characters/Wizard",
+			"FromFile": "assets/characters/astra.png"
+		},
+		//Astra2 Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Wizard_Beach",
+			"FromFile": "assets/characters/astra_beach.png"
+		},
+	    	//Chamber
+	    	{
+			"Action": "Load",
+			"Target": "Characters/Pierre",
+			"FromFile": "assets/characters/chamber.png"
+		},
+		//Chamber Beach
+		{
+			"Action": "Load",
+			"Target": "Characters/Pierre_Beach",
+			"FromFile": "assets/characters/chamber_beach.png"
+		},
+	    	//Alter Sova
+		{
+			"Action": "Load",
+			"Target": "Characters/Willy",
+			"FromFile": "assets/characters/alter_sova.png"
+		},
+		//Alter Sova Beach
+		/*{
+			"Action": "Load",
+			"Target": "Characters/Willy_Beach",
+			"FromFile": "assets/characters/alter_sova_beach.png"
+		},*/
+	    	//
 		//Dog
 		{
 			"Action": "Load",
@@ -203,6 +446,7 @@
 				"winter_Fri": "Time seems to move slower here.#$e#When I lived in the city, the years went by so fast.",
 			}
 		},
+
 		//Put custom bouqet reactions
 		{
 			"Action": "EditData",
