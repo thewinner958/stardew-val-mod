@@ -2,7 +2,7 @@
 
 A Valorant x Stardew Valley mod
 
-And yes, this was done out of a Yokye post, so expect the best story there
+And yes, this was done out of a [Yokye post](https://twitter.com/Spliinkles/status/1506364380245794817?s=20&t=BjnXHAs0HTVpaVORa6S-BA), so expect the best story there
 
 This will be used as somewhat of a list of what changes have been done. I will not be explaining how
 to install mods. If you find any trouble with the mod and/or its content: Write me on Discord
