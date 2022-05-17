@@ -149,6 +149,9 @@ Overall changes:
 
 Changelog
 ---
+Version 0.1.3 (i guess):
+- Changed the sprites of Skye. Now she should be taller. - TheWinner
+
 Version 0.1.2a:
 - Updated README
 
