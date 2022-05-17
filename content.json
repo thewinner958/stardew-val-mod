@@ -218,12 +218,19 @@
 			"FromFile": "assets/portraits/alter_sova_beach.png"
 		},*/
 //Spritesheets
-	    	//Skye
+	    //Skye
 		{
 			"Action": "Load",
 			"Target": "Characters/Leah",
 			"FromFile": "assets/characters/skye.png"
 		},
+
+		//Skye Short
+		/*{
+			"Action": "Load",
+			"Target": "Characters/Leah",
+			"FromFile": "assets/characters/skye-short.png"
+		},*/
 		//Skye Beach
 		{
 			"Action": "Load",
