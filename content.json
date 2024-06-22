@@ -434,8 +434,8 @@
 		{
 			"Action": "Load",
 			"Target": "Animals/dog1",
-			"FromFile": "assets/animal_sprites/dog
-		}
+			"FromFile": "assets/animal_sprites/dog.png"
+		},
 		//Skye Dialogue:
 		{
 			"Action": "Edit",
@@ -448,9 +448,9 @@
 			"Action": "Edit",
 			"Target": "Dialogue/Leah",
 			"Entries":{
-				"Introduction": "Hello, it's nice to meet you. $h#$e#You picked a good time to move here... The spring is lovely. $h#$e# But y'know, you'll pass out wearing that in the sun"
+				"Introduction": "Hello, it's nice to meet you. $h#$e#You picked a good time to move here... The spring is lovely. $h#$e# But y'know, you'll pass out wearing that in the sun",
 				//Insert player response: I don't need your advice!
-				"winter_Fri": "Time seems to move slower here.#$e#When I lived in the city, the years went by so fast.",
+				"winter_Fri": "Time seems to move slower here.#$e#When I lived in the city, the years went by so fast."
 			}
 		},
 
@@ -480,7 +480,7 @@
 			"Action": "LoadData",
 			"Target": "Data/mail",
 			"FromFile": "assets/data/mail"
-			}
+			
 		},
 		
 		//TV shows
