@@ -1,5 +1,5 @@
 {
-    "Format": "1.5.6",
+    "Format": "2.2.0",
     "Changes": [
 		//Yoru
 		{
@@ -12,7 +12,7 @@
 			"Target": "Characters/Farmer/shirts",
 			"FromFile": "assets/shirts_yoru75.png"
 		},
-//Portraits
+	//Portraits
 		//Skye
 		{
 			"Action": "Load",

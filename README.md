@@ -4,16 +4,16 @@ A Valorant x Stardew Valley mod
 
 And yes, this was done out of a [Yokye post](https://twitter.com/Spliinkles/status/1506364380245794817?s=20&t=BjnXHAs0HTVpaVORa6S-BA), so expect the best story there
 
-This will be used as somewhat of a list of what changes have been done. I will not be explaining how
-to install mods. If you find any trouble with the mod and/or its content: Write me on Discord
-@Splitted_Spark#0136
+This will be used as somewhat of a list of what changes have been done. For help with installing mods in the first place please check out places like [here](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started). In case of issues, either make a post here on github or write the team on discord (e.g. splitted_spark). 
 
 This is our first mod and thus there will be more and more changes added but for now no major map reworks are in planning. This mod is in English! No language adaptations are planned.
 First will be a list of the overall planned changes to the game and after that will be the version updates:
 A huge thanks goes to the team and contributors:
-- Flare: art, code
-- TheWinner: code
-- Spliinkles: ideas and decision-making
+- Flare[Founder]: Art, Code
+- Riftwalkr[Founder]: Code
+- Spliinkles[Founder]: Ideas and decision-making
+- Spark/Yarahn[Founder]: Code
+- iBorrrr: Reactivating this project, Art, Code
 - Discord members who helped with decisions and code
 
 and more who helped this journey. Enjoy!
