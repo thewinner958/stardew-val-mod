@@ -1,0 +1,12 @@
+{
+    "Format": "2.2.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Strings/FarmAnimals.json",
+            "Entries": {
+                "TryingToSleep": "{0} is trying to get some much needed rest"
+            }
+        }
+    ]
+}

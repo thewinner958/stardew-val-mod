@@ -4,7 +4,7 @@
     "Version": "0.1.1",
     "Description": "Retexturing and remade speeches based on spliinkult",
     "UniqueID": "SplittedSpark.SplinkleValley",
-    "UpdateKeys": [], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
+    "UpdateKeys": [], //See https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
     "ContentPackFor": {
         "UniqueID": "Pathoschild.ContentPatcher"
     }
